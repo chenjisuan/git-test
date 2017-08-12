@@ -1,0 +1,13 @@
+function test_1_a(){
+
+	$i = 1;
+}
+
+function test_1_b(){
+
+	$i = 1;
+}
+
+
+
+
